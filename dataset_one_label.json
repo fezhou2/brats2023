@@ -1,7 +1,6 @@
 { 
  "channel_names": {
-    "0": "T1n",
-    "3": "wholebrain"
+    "0": "T1n"
  }, 
  "labels": {
   "background": 0,
