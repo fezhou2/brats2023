@@ -1,0 +1,25 @@
+{
+    "channel_names": {
+        "0": "T1c"
+    },
+    "labels": {
+        "background": 0,
+        "whole_tumor": [
+            1,
+            2,
+            3
+        ],
+        "tumor_core": [
+            1,
+            3
+        ],
+        "enhancing_tumor": 3
+    },
+    "regions_class_order": [
+        1,
+        2,
+        3
+    ],
+    "numTraining": 1249,
+    "file_ending": ".nii.gz"
+}
