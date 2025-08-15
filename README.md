@@ -145,6 +145,3 @@ This research pushes the frontier of AI in neuro-oncology by offering a computat
 - Kendall, A., & Gal, Y. (2017). "What uncertainties do we need in Bayesian deep learning for computer vision?" *Advances in Neural Information Processing Systems (NeurIPS)*.
 - Wang, W., et al. (2021). "TransBTS: Multimodal brain tumor segmentation using transformer." *arXiv:2103.04430*.
 
-
-
-This Markdown document is ready for modification and submission. If you need further adjustments (e.g., additional sections or diagram refinements), please let me know!
